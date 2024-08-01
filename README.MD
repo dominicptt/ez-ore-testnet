@@ -1,4 +1,4 @@
-This is a easy install and setup for Ore Mining from https://github.com/pmcochrane/ore-cli/tree/extended_stats
+This is an easy install and setup for Ore Mining from https://github.com/pmcochrane/ore-cli/tree/extended_stats
 
 
 
