@@ -1,3 +1,8 @@
+This is a easy install and setup for Ore Mining from https://github.com/pmcochrane/ore-cli/tree/extended_stats
+
+
+
+
 # Step 1: Clone the repository
 ```sh
 git clone https://github.com/dominicptt/ez-ore-testnet.git
